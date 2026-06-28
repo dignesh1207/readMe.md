@@ -92,17 +92,6 @@ stack: [Python, JavaScript, Node.js, React, Swift, AWS, GCP, Linux]
 
 ---
 
-### 📈 Trading Journal — Browser Extension
-> Track and analyze trades directly from your browser
-
-- Chrome extension for logging trades in real time
-- Custom SVG logo design (candlestick aesthetic)
-- True-black UI with green/white/red trading palette
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
----
 
 ### 🖥️ [Flask Todo App](https://github.com/dignesh1207/Flask-Todo-App)
 > Clean task management web app built with Python + Flask
