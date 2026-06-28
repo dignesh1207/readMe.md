@@ -22,10 +22,11 @@ education: BSc Computer Science (Software Engineering Co-op)
 currently: Building self-hosted infrastructure & AI/ML projects
 interests:
   - AI / Machine Learning
+  - Software Engineering
   - Self-hosted infrastructure
   - Cloud (AWS, GCP)
   - Networking & Security
-target: ML Engineer @ NVIDIA 🎯
+🎯
 ```
 
 ---
